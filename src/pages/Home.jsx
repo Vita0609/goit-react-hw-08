@@ -42,7 +42,7 @@ const Home = () => {
                 color: "inherit",
                 padding: "10px 20px",
                 backgroundColor: "white",
-                border: "2px solid gold",
+                border: "2px solid blue",
                 borderRadius: "5px",
                 fontSize: "1.2rem",
                 fontWeight: "bold",
@@ -57,7 +57,7 @@ const Home = () => {
               style={{
                 textDecoration: "none",
                 color: "black",
-                border: "2px solid gold",
+                border: "2px solid blue",
                 padding: "10px 20px",
                 borderRadius: "5px",
                 fontSize: "1.2rem",

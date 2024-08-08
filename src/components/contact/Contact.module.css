@@ -23,6 +23,7 @@
     margin-right: 10px;
     font-size: 20px;
     color: #cfb51e;
+   
 }
 
 .contactStyle ul li p {
@@ -36,6 +37,7 @@
     border-radius: 5px;
     padding: 8px 12px;
     cursor: pointer;
+    
 }
 
 .deleteButton:hover {
